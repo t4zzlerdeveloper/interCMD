@@ -1,7 +1,5 @@
-# interCMD
+# interCMD (Very very badly optimized!!)
 ##### Simple Java Command Interperter Class
-
-Very very badly optimized!!
 
 
 ## Documentation:
